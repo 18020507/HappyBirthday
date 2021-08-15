@@ -11,7 +11,7 @@ body {
   display: inline-block;
   width: 150px;
   height: 150px;
-  background-image: url('http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c43a.png');
+  background-image: url('./img/arrow.png');
   background-size: contain;
   background-repeat: no-repeat;
   margin-bottom: 370px;
